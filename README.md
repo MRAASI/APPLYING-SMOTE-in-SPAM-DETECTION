@@ -23,4 +23,6 @@ In this project we used text classification to determined whether the message is
 In today's internet-oriented data; receiving spam  messages are quite obvious. Most of the time such messages  are commercial. But many times,  may contain some phishing links that have malware. This arises the need for proposing prudent mechanism to detect or identify such spam messages so that time and memory space of the system can be saved up to a great extentIt provides the notification for the given message as spam if it is spam message.
 
 ## Dataset Source: https://www.kaggle.com/uciml/sms-spam-collection-dataset
-## Base paper source: https://scihubtw.tw/10.1109/ICCMC48092.2020.ICCMC-000177
+## Base paper source: https://scihubtw.tw/10.1109/ICCMC48092.2020.ICCMC-000177 
+
+This SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It comprises one set of SMS messages in English of 5,574 messages, which is tagged acording being ham (legitimate) or spam.
