@@ -21,5 +21,6 @@ It shows many more examples in the minority class created along the lines betwee
 In this project we used text classification to determined whether the message is spam or not.  NLP methods are used to prepare and clean the text data (tokenization, remove stop words, stemming) and used different machine learning algorithms to get more accurate predictions. The following classification algorithms have been used: Logistic Regression, Naive Bayes, Support Vector Machine (SVM), Random Forest.
 
 In today's internet-oriented data; receiving spam  messages are quite obvious. Most of the time such messages  are commercial. But many times,  may contain some phishing links that have malware. This arises the need for proposing prudent mechanism to detect or identify such spam messages so that time and memory space of the system can be saved up to a great extentIt provides the notification for the given message as spam if it is spam message.
-Dataset Source: https://www.kaggle.com/uciml/sms-spam-collection-dataset
-Base paper source: https://scihubtw.tw/10.1109/ICCMC48092.2020.ICCMC-000177
+
+## Dataset Source: https://www.kaggle.com/uciml/sms-spam-collection-dataset
+## Base paper source: https://scihubtw.tw/10.1109/ICCMC48092.2020.ICCMC-000177
